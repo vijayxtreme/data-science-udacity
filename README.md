@@ -14,6 +14,10 @@ Run jupyter notebook in this folder: `jupyter notebook`
 
 Visit the page that opens up and begin working through the examples.
 
+## Dependencies
+
+Be sure to have kernel running on Python2.7 (think it defaults to Python 3).  You'll need to also install unicodecsv, pprint.  In a future update to this, I might add the env file for everything. 
+
 ## More Reading
 
 https://github.com/udacity/dand-workshops
